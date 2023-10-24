@@ -59,7 +59,7 @@
     "@types/react": "^17.0.8",
     "@types/react-dom": "^17.0.5",
     "husky": "^6.0.0",
-    "next": "^11.0.0",
+    "next": "^13.5.0",
     "rollup": "^2.47.0",
     "rollup-plugin-dts": "^3.0.1",
     "rollup-plugin-typescript2": "^0.30.0",
