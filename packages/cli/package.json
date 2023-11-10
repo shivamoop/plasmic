@@ -54,7 +54,7 @@
     "@plasmicapp/code-merger": "^0.0.33",
     "@sentry/node": "^5.19.2",
     "@types/socket.io-client": "^1.4.34",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "chalk": "^4.1.0",
     "fast-glob": "^3.2.4",
     "findup-sync": "^4.0.0",
